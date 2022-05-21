@@ -2,3 +2,4 @@ others
 venv
 .idea
 __pycache__/
+test
